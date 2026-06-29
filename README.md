@@ -1,6 +1,6 @@
 # Linux Infrastructure Labs
 
-> Enterprise Linux Administration Portfolio
+> Enterprise Linux Infrastructure Portfolio
 
 ---
 
@@ -14,28 +14,39 @@ Each project is built around business scenarios commonly encountered by Linux Sy
 
 ## Career Objective
 
-To develop production-ready Linux administration skills required for Infrastructure Support Engineer and Infrastructure Engineer roles.
+To build production-ready Linux infrastructure skills through realistic enterprise projects that simulate the daily responsibilities of Infrastructure Support Engineers and Linux System Administrators.
 
 ---
 
 ## Skills Demonstrated
 
-- Linux System Administration
-- User & Group Management
-- File Permissions and ACLs
-- SSH Administration
-- Networking
-- Firewall Configuration
-- Apache & Nginx
-- Bash Scripting
-- Backup & Recovery
-- System Monitoring
-- Log Analysis
-- Process Management
-- Package Management
-- Automation
-- Troubleshooting
+-Operating System
+• Linux System Administration
 
+Identity & Security
+• User & Group Management
+• File Permissions & ACLs
+• SSH Administration
+• Firewall Configuration
+
+Networking
+• Linux Networking
+• Network Troubleshooting
+
+Services
+• Apache
+• Nginx
+
+Automation
+• Bash Scripting
+• Cron
+
+Operations
+• Package Management
+• Process Management
+• Log Analysis
+• System Monitoring
+• Backup & Recovery
 ---
 
 ## Project Roadmap
@@ -58,15 +69,30 @@ To develop production-ready Linux administration skills required for Infrastruct
 ## Technologies
 
 - Ubuntu Server
-- Bash
-- SSH
-- Apache
-- Nginx
-- UFW
-- Cron
-- Systemd
-- Git
-- GitHub
+
+Git
+
+GitHub
+
+Bash
+
+SSH
+
+systemd
+
+UFW
+
+Cron
+
+Vim
+
+Nano
+
+OpenSSH
+
+Apache
+
+Nginx
 
 ---
 
